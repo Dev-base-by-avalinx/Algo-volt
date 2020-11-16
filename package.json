@@ -1,0 +1,19 @@
+{
+  "name": "algo-volt",
+  "version": "1.0.0",
+  "description": "Repo containing all the code for code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-base-by-avalinx/Algo-volt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-base-by-avalinx/Algo-volt/issues"
+  },
+  "homepage": "https://github.com/Dev-base-by-avalinx/Algo-volt#readme"
+}
